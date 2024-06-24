@@ -7,9 +7,10 @@ const { createApp } = Vue
     
     data() {
       return {
-        message: 'Titolone',
+        message: 'Mitsuri Kanroji',
         miaClasse: 'titolo',
         src: "mitsuri-kanroji.webp",
+        miaImg: 'img',
       }
     }
   }).mount('#header')
