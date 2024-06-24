@@ -4,9 +4,11 @@ const { createApp } = Vue
 
 //creazione della istanza del titolo
   createApp({
+    
     data() {
       return {
-        message: 'Hello Vue!'
+        message: 'Titolone',
+        miaClasse: 'titolo',
       }
     }
-  }).mount('#app')
+  }).mount('#header')
