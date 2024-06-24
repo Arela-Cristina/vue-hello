@@ -3,3 +3,9 @@
 body {
     font-family: "Playwrite MX", cursive;
 }
+
+.titolo {
+    color: #ff4465;
+    text-align: center;
+    font-size: 40px;
+}
