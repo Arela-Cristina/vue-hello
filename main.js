@@ -9,6 +9,7 @@ const { createApp } = Vue
       return {
         message: 'Titolone',
         miaClasse: 'titolo',
+        src: "mitsuri-kanroji.webp",
       }
     }
   }).mount('#header')
