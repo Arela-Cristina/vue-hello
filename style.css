@@ -5,7 +5,13 @@ body {
 }
 
 .titolo {
-    color: #ff4465;
+    color: #2a2936;
     text-align: center;
     font-size: 40px;
+}
+
+.img {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
 }
